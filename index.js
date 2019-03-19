@@ -1,1 +1,2 @@
-var recipes = 
+var recipes = {1: 'flour'}
+
