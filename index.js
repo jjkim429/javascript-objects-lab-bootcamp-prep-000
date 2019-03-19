@@ -15,7 +15,7 @@ function updateObjectWithKeyAndValue(object, key, value) {
 }
 
 function deleteFromObjectByKey(object, key) {
-  var 2 = Object.assign({}, object)
+  var recipes2 = Object.assign({}, object)
   delete object[key]
-  return 2
+  return recipes2
 }
